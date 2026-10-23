@@ -1,0 +1,13 @@
+# Build output
+a.out
+*.exe
+*.o
+smart_parking
+
+# Generated at runtime
+receipt.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
